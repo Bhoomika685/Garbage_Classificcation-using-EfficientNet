@@ -36,6 +36,11 @@ This project uses *transfer learning* with the EfficientNetV2B2 model to classif
 ## 🔍 Sample Prediction
 > Uploading an image of a plastic bottle returns: *"plastic"*
 
+
+
+for the working of the project 
+https://drive.google.com/drive/folders/1DpEL018MOxAb7vTk_oQMGwLLbbtkj8PC?usp=drive_link
+
 ## 👤 Author
 *Bhoomika Hemkar*  
 3rd Year, University BDT College of Engineering  
