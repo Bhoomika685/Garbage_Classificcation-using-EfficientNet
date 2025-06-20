@@ -4,7 +4,7 @@ Garbage Classification using EfficientNetV2B2 | Deep Learning model for classify
 
 # Garbage Classification using EfficientNetV2B2
 
-This project uses *transfer learning* with the EfficientNetV2B2 model to classify garbage images into 6 categories:
+This project uses *transfer learning* with the EfficientNetV2B2 model to classify garbage images into 6 categories: 
 
 - Cardboard
 - Glass
